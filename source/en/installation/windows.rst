@@ -8,7 +8,7 @@ Packages redistribuables Visual C++ for Visual Studio 2013:
 	- vcredist_x64.exe
 	- vcredist_x86.exe
 
-**URL** : <https://www.microsoft.com/fr-fr/download/details.aspx?id=40784>
+**URL** : <https://www.microsoft.com/en-us/download/details.aspx?id=40784>
 
 
 Installation with MSI installer
